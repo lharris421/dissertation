@@ -1,3 +1,12 @@
+#' Title
+#'
+#' @param res
+#' @param params
+#'
+#' @return
+#' @export
+#'
+#' @examples
 bias_decomp_plots <- function(res, params) {
 
   # Generate the original data to get true beta values
